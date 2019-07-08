@@ -1,7 +1,7 @@
 # UE4_VR_Development_101
  Getting started VR development with Unreal Engine 4 
  
- <pre>CONTENT</pre>
+ CONTENT&nbsp
  -Preparing 3d model (Sketchfab, Maya/Blender)
  -Import/Migrate Assets to UE4
  -Simple Texture & Material
