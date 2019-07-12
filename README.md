@@ -21,16 +21,19 @@ Hardware (using PC & Oculus Go in this demo) <br/>
 <br/>
 <br/> 
 
-### SETTING UP THE ENVIRONMMENT TO DEPLOY <br/>
+#### Step 4: BLUEPRINT INTERACTION <br/>
+(Example: Move the dog with eye gazing) <br/>
+![alt text](https://github.com/linyangworld/UE4_VR_Development_101/blob/master/Images/Screen%20Shot%202019-07-12%20at%202.06.09%20PM.png)
+
+#### Step 5: SETTING UP THE ENVIRONMMENT TO DEPLOY <br/>
 (PC, Phone, Oculus Go) <br/>
 - Go to Folder: Epic Games -> UE_(your engine version) -> Engine -> Extras -> AndroidWorks -> Win64, Run CodeWorksforAndroid Installer to install all of the prerequisites. <br/>
 - Install Oculus Go App on your phone and enable Developer Mode on Developer Settings. <br/>
 - Connect Oculus Go to PC by USB cable. <br/>
 - Open Terminal and type: adb devices. If it is not recoginzed, go to Oculus Go and allow USB debugging. Then, type adb device on Terminal again.<br/>
 <br/>
-<br/>
 
-### DEPLOY TO OCULUS GO <br/>
+#### Step 6: DEPLOY TO OCULUS GO <br/>
 Project Setting: <br/>
 - Description: Project Name, Start in VR <br/>
 - Maps & Modes: Default Map <br/>
