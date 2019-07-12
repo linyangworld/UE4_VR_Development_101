@@ -12,28 +12,25 @@ Hardware (using PC & Oculus Go in this demo) <br/>
 <br/> 
 
 ## CONTENT <br/>
-- Preparing 3d model (Sketchfab, Maya/Blender) <br/>
-- Import/Migrate Assets to UE4 <br/>
-- Simple Texture & Material <br/>
-- Blueprint Interaction (Example: moving object) <br/>
-- Deploy to Oculus Go <br/>
+1. Preparing 3d model (Sketchfab, Maya/Blender) <br/>
+2. Import/migrate assets to UE4 <br/>
+3. Simple texture & material <br/>
+4. Blueprint interaction (Example: moving object) <br/>
+5. Setting up the environment to deploy  <br/>
+6. Deploy to Oculus Go <br/>
 <br/>
 <br/> 
 
 ### SETTING UP THE ENVIRONMMENT TO DEPLOY <br/>
 (PC, Phone, Oculus Go) <br/>
-1. Go to Folder: Epic Games -> UE_(your engine version) -> Engine -> Extras -> AndroidWorks -> Win64, Run CodeWorksforAndroid Installer to install all of the prerequisites. <br/>
-
-2. Install Oculus Go App on your phone and enable Developer Mode on Developer Settings. <br/>
-
-3. Connect Oculus Go to PC by USB cable. <br/>
-
-4. Open Terminal and type: adb devices. If it is not recoginzed, go to Oculus Go and allow USB debugging. Then, type adb device on Terminal again.<br/>
+- Go to Folder: Epic Games -> UE_(your engine version) -> Engine -> Extras -> AndroidWorks -> Win64, Run CodeWorksforAndroid Installer to install all of the prerequisites. <br/>
+- Install Oculus Go App on your phone and enable Developer Mode on Developer Settings. <br/>
+- Connect Oculus Go to PC by USB cable. <br/>
+- Open Terminal and type: adb devices. If it is not recoginzed, go to Oculus Go and allow USB debugging. Then, type adb device on Terminal again.<br/>
 <br/>
 <br/>
 
-### DEPLOY TO OCULUS GO WITH UE4 <br/>
-<br/>
+### DEPLOY TO OCULUS GO <br/>
 Project Setting: <br/>
 - Description: Project Name, Start in VR <br/>
 - Maps & Modes: Default Map <br/>
