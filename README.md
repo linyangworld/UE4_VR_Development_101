@@ -1,27 +1,27 @@
 # UE4_VR_Development_101
- Getting started VR development with Unreal Engine 4 
- <br/>
- <br/> 
+Getting started VR development with Unreal Engine 4 
+<br/>
+<br/> 
 
-PREREQUISITES <br/>
+## PREREQUISITES <br/>
 Unreal Engine from Epic Game (using 4.21.2 in this demo) <br/>
 Any 3D modeling software (Blender/Maya) <br/>
 Three button mouse!! <br/>
 Hardware (using PC & Oculus Go in this demo) <br/>
- <br/>
- <br/> 
+<br/>
+<br/> 
 
- CONTENT <br/>
- - Preparing 3d model (Sketchfab, Maya/Blender) <br/>
- - Import/Migrate Assets to UE4 <br/>
- - Simple Texture & Material <br/>
- - Blueprint Interaction (Example: moving object) <br/>
- - Deploy to Oculus Go <br/>
- <br/>
- <br/> 
+## CONTENT <br/>
+- Preparing 3d model (Sketchfab, Maya/Blender) <br/>
+- Import/Migrate Assets to UE4 <br/>
+- Simple Texture & Material <br/>
+- Blueprint Interaction (Example: moving object) <br/>
+- Deploy to Oculus Go <br/>
+<br/>
+<br/> 
 
- SETTING UP THE ENVIRONMMENT TO DEPLOY <br/>
- (PC, Phone, Oculus Go) <br/>
+### SETTING UP THE ENVIRONMMENT TO DEPLOY <br/>
+(PC, Phone, Oculus Go) <br/>
 1. Go to Folder: Epic Games -> UE_(your engine version) -> Engine -> Extras -> AndroidWorks -> Win64, Run CodeWorksforAndroid Installer to install all of the prerequisites. <br/>
 
 2. Install Oculus Go App on your phone and enable Developer Mode on Developer Settings. <br/>
@@ -32,7 +32,7 @@ Hardware (using PC & Oculus Go in this demo) <br/>
 <br/>
 <br/>
 
-DEPLOY TO OCULUS GO WITH UE4 <br/>
+### DEPLOY TO OCULUS GO WITH UE4 <br/>
 <br/>
 Project Setting: <br/>
 - Description: Project Name, Start in VR <br/>
